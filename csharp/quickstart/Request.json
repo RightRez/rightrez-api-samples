@@ -17,15 +17,13 @@
 		"TripDirection":"RETURN_TRIP",
 		"ServiceLevel":"Y",
 	}],
-	"NumPassengers":1,
 	"Options":
 	{
 		"BookingType":"AirSea",
-		"ShipCode":null,
 		"NumPassengers":1,
 		"ServiceLevel":"Y",
 		"UseMarine":false,
 		"UseAirSea":true,
-		"UsePublished":""
+		"UsePublished":false,
 	}
 }
