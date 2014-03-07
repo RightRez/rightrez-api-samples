@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quickstart", "quickstart\quickstart.csproj", "{D24A6B2B-516D-4C15-A390-F16985CCD98C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0DFA479-0CA3-42A0-B1DB-5FA8011D603B}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24A6B2B-516D-4C15-A390-F16985CCD98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A6B2B-516D-4C15-A390-F16985CCD98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A6B2B-516D-4C15-A390-F16985CCD98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A6B2B-516D-4C15-A390-F16985CCD98C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

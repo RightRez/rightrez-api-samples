@@ -1,4 +1,4 @@
-rightrez-api-samples
+RightRez Web API Sample Code
 ====================
 
-RightRez Web API Sample Code
+
