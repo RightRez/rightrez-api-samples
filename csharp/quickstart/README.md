@@ -7,8 +7,8 @@ to get a authentication token, then calls availability to get a list of availabl
 the user can select by typing in the number of the option which will go out and create an actual booking. It uses dynamic types and 
 'HttpClient' from .Net 4+ in order to get up and running quickly.
 
-*Before running, modify the App.config file AppSettings for 'ApiBaseUri', 'ClientId', 'Username', and 'Password' to valid values. Additionally,
-modify Request.json to set the correct values for 'ClientId' and 'BookingType'.* The flight availability request is generated from the file 
+**Before running, modify the App.config file AppSettings for 'ApiBaseUri', 'ClientId', 'Username', and 'Password' to valid values. Additionally,
+modify Request.json to set the correct values for 'ClientId' and 'BookingType'.** The flight availability request is generated from the file 
 Request.json, which can be modified as needed to perform alternate requests.  There are many additional properites which may be set on the 
 availability request, for a complete reference please consult the API documentation website.
 
