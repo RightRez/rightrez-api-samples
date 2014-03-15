@@ -5,25 +5,16 @@
 		"DepartCity":"JFK",
 		"ArriveCity":"LHR",
 		"AirDate":"14Apr14",
-		"AvailType":"Neutral",
 		"TripDirection":"OUTBOUND_TRIP",
-		"ServiceLevel":"Y",
 	},
 	{
 		"DepartCity":"LHR",
 		"ArriveCity":"JFK",
 		"AirDate":"21Apr14",
-		"AvailType":"Neutral",
 		"TripDirection":"RETURN_TRIP",
-		"ServiceLevel":"Y",
 	}],
 	"Options":
 	{
 		"BookingType":"AirSea",
-		"NumPassengers":1,
-		"ServiceLevel":"Y",
-		"UseMarine":false,
-		"UseAirSea":true,
-		"UsePublished":false,
 	}
 }
